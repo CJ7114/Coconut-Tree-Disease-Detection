@@ -1,0 +1,7 @@
+path: C:\\Users\\CJ\\Desktop\\New folder\\coconutreedet\\out2fin  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: images/test  # test images (optional)
+
+nc: 5  # number of classes
+names: ['Bud Root Dropping', 'Bud Rot', 'Gray Leaf Spot', 'Leaf Rot', 'Stem Bleeding']
