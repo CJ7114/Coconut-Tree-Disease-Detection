@@ -53,12 +53,4 @@ To run inference on new images:
 
 ```bash
 python detect.py --source path/to/images --weights runs/train/exp/weights/best.pt
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- This project uses [YOLOv5](https://github.com/ultralytics/yolov5) by Ultralytics 
+``` 
